@@ -13,8 +13,7 @@ named ipgb_cities and ipgb_cidr in piwik database.
 
 # How to install:
 
- 1. Copy Ipgb.php into plugins/UserCountry/LocationProvider/GeoIp/ in your piwik directory.
- 2. Add `require_once PIWIK_INCLUDE_PATH . '/plugins/UserCountry/LocationProvider/GeoIp/Ipgb.php';`
- to plugins/UserCountry/LocationProvider/GeoIp.php
+ 1. Copy IpgbPlugin into plugins/ in your piwik directory.
+ 2. Activate plugin in piwik management console (Settings -> Plugins)
  3. Change location provider in piwik management console (Settings -> Geolocation).
 

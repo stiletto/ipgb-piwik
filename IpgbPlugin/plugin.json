@@ -1,0 +1,13 @@
+{
+ "name": "IpgbPlugin",
+ "version": "0.1.0",
+ "description": "Adds support for ipgeobase.ru to GeoIP",
+ "theme": false,
+ "authors": [
+     {
+         "name": "Stiletto",
+         "email": "blasux@blasux.ru",
+         "homepage": "https://github.com/stiletto/ipgb-piwik"
+     }
+ ]
+}
